@@ -1,2 +1,2 @@
 # SkillFactory
-Projects from SF DS course
+This repository assigned for the tasks from SkillFactory DS course
